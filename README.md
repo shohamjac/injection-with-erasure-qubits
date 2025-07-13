@@ -1,6 +1,6 @@
 Those are the scripts used for the generation and plotting of the data presented in ``Magic State Injection with Erasure Qubits''.
 
-Since 
+Since some scripts are using the code published by Gidney in the "Cleaner magic states with hook injection" paper, first run `step0_clone_Gidney_repo` to clone its repo into the `gidney_code` folder.
 
 Figure 3a & 7:
 - The data was collected using `expand_script.py`.
