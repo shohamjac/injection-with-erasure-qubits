@@ -1,0 +1,58 @@
+a W X1
+b W D2
+c W D1
+d W Z1
+e W D4
+f W D3
+g W X2
+a H
+g H
+e f G \rotatebox{90}{$ZZ^{\frac{1}{4}}$}
+# step 2
+a b c d e f g TOUCH
+a +c
+f +d
+# step 3
+a b c d e f g TOUCH
+a +b
+e +d
+# step 4
+a b c d e f g TOUCH
+c +d
+g +f
+# step 5
+a b c d e f g TOUCH
+b +d
+g +e
+a b c d e f g TOUCH
+a H
+g H
+a d g M
+
+a b c d e f g END
+=
+a b c d e f g START
+
+a H
+g H
+# step 2
+a b c d e f g TOUCH
+a +c
+f +d
+# step 3
+a b c d e f g TOUCH
+a +b
+e +d color=blue
+d G T
+# step 4
+a b c d e f g TOUCH
+c +d color=red
+g +f
+# step 5
+a b c d e f g TOUCH
+b +d
+g +e
+a b c d e f g TOUCH
+a H
+g H
+a d g M
