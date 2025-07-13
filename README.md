@@ -1,4 +1,4 @@
-Those are the scripts used for the generation and plotting of the data presented in ``Magic State Injection with Erasure Qubits''.
+Those are the scripts used for the generation and plotting of the data presented in ``Magic State Injection with Erasure Qubits'' ([arXiv:2504:02935](https://arxiv.org/abs/2504.02935)).
 
 Since some scripts are using the code published by Gidney in the "Cleaner magic states with hook injection" paper, first run `step0_clone_Gidney_repo` to clone its repo into the `gidney_code` folder.
 
