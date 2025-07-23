@@ -12,8 +12,10 @@ Figure 3b:
 - Data in `out/pareto_raw,*,2024-12-15,batch_size=500.csv`.
 - Plotting tools in `plot_pareto.ipynb`.
 
-Figure 4:
-- Data in `out/2024-12-21-erasuremagic_1e6runs_sj`.
+Figure 4 & 12:
+- Data in `out/2024-12-21-erasuremagic_1e6runs_sj` for distance 3.
+- Data in `out/2025-07-17-erasuremagic_5e5runs_d=5` for distance 5.
+- Data in `out/2025-07-17-erasuremagic_5e5runs_d=7` for distance 7.
 - Plotting tools in `Erasuremagic.ipynb`.
 
 Figure 5:
